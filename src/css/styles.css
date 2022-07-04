@@ -1,0 +1,15 @@
+    .box {
+        font-family: 'Splash', cursive;
+    }
+
+    .person-name {
+        font-family: 'Rubik Moonrocks', cursive;
+    }
+
+    .looser-person {
+        font-family: 'Kanit', sans-serif;
+    }
+
+    .body {
+        background-color: rgb(189, 201, 201);
+    }
